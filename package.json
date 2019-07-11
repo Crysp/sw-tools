@@ -1,0 +1,17 @@
+{
+  "name": "@client/sw-tools",
+  "version": "1.0.0",
+  "description": "Tools for Study World of React.",
+  "bin": {
+    "sw-tools": "./bin/sw-tools"
+  },
+  "main": "index.js",
+  "author": "Crysp",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "fs-extra": "^8.1.0",
+    "inquirer": "^6.5.0"
+  }
+}
